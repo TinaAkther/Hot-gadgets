@@ -1,0 +1,10 @@
+
+.container-fluid{
+    background-color: white;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px;
+    padding: 10px 25px;
+}
